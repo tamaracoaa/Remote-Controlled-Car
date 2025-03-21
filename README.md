@@ -42,7 +42,7 @@ Through this project I will apply my knowledge of circuitry and coding to create
 
 ## Useful Links
 
-<!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+Parts List: https://virginiatech-my.sharepoint.com/:w:/g/personal/tamaracoaa_vt_edu/EX4SUfR0rCtIvDQ_AXbJqfkBzi_1AE7klARsxKb9hxpYrg?e=a0jlnB
 
 ## Log
 
