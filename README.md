@@ -14,7 +14,7 @@ Using a ESP32-C6, L298N, and motors (unsure which ones), I want to create a toy 
 
 ## Educational Value Added
 
-Through this project I will apply my knowledge of circuitry and coding to create a basic design of a car, thereby creating a foundation that future bigger projects can grow from. The overarching goal is to create an RC car that uses a camera and AI object detection to recognize obstacles and navigate through a set path.  
+Through this project I will apply my knowledge of circuitry and coding to create a basic design of a RC car, thereby creating a foundation that future bigger projects can grow from. The overarching goal is to create an RC car that uses a camera and AI object detection to recognize obstacles and navigate through a set path.  
 
 ## Tasks
 
